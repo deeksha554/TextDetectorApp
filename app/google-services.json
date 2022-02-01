@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953969982992",
+    "project_id": "text-detector-5932d",
+    "storage_bucket": "text-detector-5932d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953969982992:android:054adb691b6dd07081d495",
+        "android_client_info": {
+          "package_name": "com.example.textdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953969982992-0jrhm0e1en8tleg6ihvi8484o2aa7tsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMoqKSRz7Tr18snksC4hR8kG6QwXD5Uk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953969982992-0jrhm0e1en8tleg6ihvi8484o2aa7tsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
